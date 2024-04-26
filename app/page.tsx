@@ -47,7 +47,7 @@ export default function Home() {
           >
             unkey.dev
           </Link> */}
-           Build -{">"} Learn -{">"} Teach -{">"} Reepeat
+           Build -{">"} Learn -{">"} Teach -{">"} Repeat
         </h2>
       </div>
     </div>
